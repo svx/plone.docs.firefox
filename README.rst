@@ -14,5 +14,9 @@ Usage
 
 * Download the script to your *searchplugins* directory of your Firefox profile folder, and restart firefox
 
+Todo
+====
+
+Add install instructions 
 
 Tested with Ubuntu 13.10
