@@ -6,5 +6,5 @@
 <Url type="text/html" method="GET" template="http://docs.plone.org/search.html">
   <Param name="q" value="{searchTerms}"/>
   </Url>
-<SearchForm>http://developer.plone.org/</SearchForm>
+<SearchForm>http://docs.plone.org/</SearchForm>
 </SearchPlugin>
